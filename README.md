@@ -4,7 +4,6 @@ Full Stack Developer in trainning by EBAC
 
 ## Hi There.
 
-I have started learning coding from August 2021, with the aim of changing my career from Sommelier to Developer, It's been a hectic journey which starts to pay out and hopefully soon will be getting my fist job in the field.
 
 
 
